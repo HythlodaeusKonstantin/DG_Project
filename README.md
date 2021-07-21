@@ -3,7 +3,7 @@
 Developed with Unreal Engine 4
 
 ***
-##DG_Project workflow v0.1
+## DG_Project workflow v0.1
 Реализовано:
 *Процедурная генерация карты мира
     *Генерация определенного количества гексов с островами на карте
