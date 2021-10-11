@@ -34,19 +34,5 @@
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
-	],
-	"Plugins": [
-		{
-			"Name": "PythonScriptPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "SequencerScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "EditorScriptingUtilities",
-			"Enabled": true
-		}
 	]
 }
